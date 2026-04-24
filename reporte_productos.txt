@@ -1,0 +1,4 @@
+Producto_2;10
+Producto_1;9
+Producto_3;5
+Producto_4;5
