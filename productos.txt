@@ -1,0 +1,5 @@
+1;Producto_1;1000
+2;Producto_2;2000
+3;Producto_3;3000
+4;Producto_4;4000
+5;Producto_5;5000
